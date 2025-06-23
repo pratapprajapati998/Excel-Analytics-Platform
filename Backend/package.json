@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "excel analytics platform backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abarnavijayakumar/Excel-Analytics-Platform.git"
+  },
+  "author": "Abarna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abarnavijayakumar/Excel-Analytics-Platform/issues"
+  },
+  "homepage": "https://github.com/Abarnavijayakumar/Excel-Analytics-Platform#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3",
+    "nodemon": "^3.1.10"
+  }
+}
