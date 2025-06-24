@@ -24,15 +24,15 @@ const Contact = () => {
             <div className="pt-4 space-y-3 text-lg">
               <p className="flex items-center gap-3">
                 <FaEnvelope className="text-xl text-violet-300" />
-                <span style={{ fontFamily: '"Poppins", sans-serif' }}>Support@excelanalytics.com</span>
+                <span style={{ fontFamily: '"Poppins", sans-serif' }}>pratappraj211@gmail.com</span>
               </p>
               <p className="flex items-center gap-3">
                 <FaPhoneAlt className="text-xl text-violet-300" />
-                <span style={{ fontFamily: '"Poppins", sans-serif' }}>+91 98765 43210</span>
+                <span style={{ fontFamily: '"Poppins", sans-serif' }}>+91 9569266034</span>
               </p>
               <p className="flex items-center gap-3">
                 <FaClock className="text-xl text-violet-300" />
-                <span style={{ fontFamily: '"Poppins", sans-serif' }}>Mon–Fri, 9AM–6PM</span>
+                <span style={{ fontFamily: '"Poppins", sans-serif' }}>Mon–Fri, 9AM–7PM</span>
               </p>
             </div>
           </div>
